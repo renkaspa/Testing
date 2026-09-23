@@ -1,3 +1,2 @@
-xd
-esto es puro main
-segunda cosa   
+Hola amigos
+123   
